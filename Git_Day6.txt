@@ -1,0 +1,42 @@
+Agenda
+-------
+
+Git clone
+Git push
+Git Pull
+Git fetch
+Git Hooks
+Branching startegy
+
+Git clone:
+==========
+git clone command is used to bring the remote repo to local workspace for the first time called as git clone
+
+
+Git push:
+===========
+git push is used to push the changes from Local repository to Remote repository
+
+
+
+Git fetch:
+===========
+git fetch will bring thye changes from remote repository & stores it in seperate branch , we can review the changes if required we can merge normally.
+
+
+Git pull:
+============
+git pull will bring thye changes from remote repository & merges to local repository automatically
+
+
+
+
+
+
+Merge conflict
+==============
+merging conflict will occur when the same peice of code is changed on two different branches & when we try to merge these two branches merge conflict occurs
+
+how do you fix merge conflicts?
+  I dont know what changes to keep 
+  I will discuss with both developers about what content to keep, then we will decide what changes we need to keep & then i will proceed with merging
